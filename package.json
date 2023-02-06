@@ -1,0 +1,19 @@
+{
+  "name": "apis-ntt-data",
+  "version": "1.0.0",
+  "description": "Prueba Api NTT DATA",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "automation"
+  ],
+  "author": "Michael Perez Pisco",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
